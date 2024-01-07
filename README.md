@@ -9,7 +9,7 @@ Version: 1.0.0
 -----------------------------------------------------------------------------------------------------
 An iptables rule that only allows incoming connections from machines on CTF Plateforms
 
-# ![image](https://github.com/command-Z3R0/safe_TryHackMe/assets/63407688/f74b1c84-f601-4b4e-86d2-88983f6c4d2e) usage:
+# ![image](https://github.com/command-Z3R0/safeCTF/assets/63407688/f74b1c84-f601-4b4e-86d2-88983f6c4d2e) usage:
 
 ```bash
 sudo chmod +x ./safeCTF.sh
