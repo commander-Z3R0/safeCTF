@@ -28,7 +28,7 @@ logo="$b
       <KKKKKKKKkr,                       ,rSKKKKKKKK<
        -\"v]qj;-                             -;jq]v\"-
                         $w[SafeCTF]$w
-          $d Configuration iptables for CTF
+            $d Configuration iptables for CTF
                   $d by $w$r@Commander.Z3R0$w"
 
 echo -e "$logo"
