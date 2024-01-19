@@ -77,7 +77,6 @@ fi
 if [ -z "$VPN_IP" ]; then
   echo "Please provide the VPN IP address as an argument to the script."
   echo ""
-  mostrar_ayuda
   exit 1
 fi
 
